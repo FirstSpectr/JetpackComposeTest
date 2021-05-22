@@ -78,7 +78,7 @@ class DetailActivity : AppCompatActivity() {
                 Text(
                     text = session.description,
                     maxLines = 2,
-                    overflow = TextOverflow.Ellipsis
+                    overflow = TextOverflow.Ellipsis, color = Color(primaryTextColor)
                 )
             }
         }
