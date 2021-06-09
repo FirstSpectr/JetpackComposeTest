@@ -1,4 +1,4 @@
-# JetpackComposeTest
+# JetpackComposeApp
 Реализация тестового задания из [видео](https://youtu.be/ND-OA_9L1vo) по Jetpack Compose c канала Mobile Developer
 
 # Тестовое задание
